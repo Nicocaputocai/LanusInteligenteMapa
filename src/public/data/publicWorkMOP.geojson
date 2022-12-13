@@ -1,0 +1,379 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veredas y pintura de fachadas en Las Colonias ETAPA 2",
+        "description": "$18,5 millones | Inició en octubre de 2021 y finalizó en febrero de 2022",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.38803495145055, -34.72254674690569],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Veredas y pintura de fachadas en Las Colonias",
+        "description": "$16 millones | Inició en enero de 2021 y finalizó en agosto de 2021",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.3870460972108, -34.72325113506735],
+        "type": "Point",
+        "status": "Finalizado"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puesta en valor FFCC Diamante",
+        "description": "$6,6 millones | Inició en septiembre de 2019 y finalizó en noviembre de 2021",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.42847606061811, -34.681613824269775],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Conexiones domiciliarias cloacales en San José Obrero",
+        "description": "$70 millones | Inició en noviembre de 2019 y finalizó en marzo de 2021",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.429933435658, -34.69237467964699],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Reconstrucción de Pavimentos Afectados por la Puesta en Valor de Calles Principales y Apertura sobre Vías del FF.CC. Belgrano Sur Calle Farrell | Plan Argentina Hace - SOP",
+        "description": "$95 millones | 40 empleos | 265.000 personas beneficiadas | Inició en agosto de 2020 y finalizó en agosto de 2021",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.42769941704326, -34.68738382676439],
+        "type": "Point",
+        "status": "Finalizado"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hospital de Campaña (Nave Pellegrini) en Lanús",
+        "description": " $6 millones | Inició en marzo de 2020 y finalizó en abril de 2020 | Incorporó 180 camas | 100.000 personas beneficiadas | Refuncionalización del edificio “Nave Pellegrini”, transformándolo de colegio de modalidad técnica en un Hospital de Campaña.",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.437980344198735, -34.67945521592229],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puesta en Valor Calles Secundarias Dentro del Partido de Lanús | Plan Argentina Hace - SOP ",
+        "description": "$108,5 millones | 35 empleos | 250.000 personas beneficiadas | Inició en octubre de 2020 y finalizó en septiembre de 2021.",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.392328825057945, -34.699118807158435],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puesta en Valor Corredores de Transporte Público | Plan Argentina Hace - SOP",
+        "description": "$105,4 millones | 35 empleos | 300.000 personas beneficiadas | Inició en agosto de 2020 y finalizó en abril de 2021.",
+        "status": "Finalizado"
+      },
+      "geometry": {
+        "coordinates": [-58.39085272350614, -34.70741737066034],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Industrial Curtidor",
+        "description": "$367,5 millones | Inició en noviembre de 2018 y estima finalizar durante 2022 | 250 empleos | Contempla la construcción de las redes eléctrica, gas, agua potable, agua para procesos industriales, cloaca, desagües industriales y pluviales, la construcción de pavimentos. Ofrecerá 23 lotes para radicar empresas (30 3 curtiembres aproximadamente), 2 lotes comunes y 1 lote para la Planta de Tratamiento de Efluentes Industriales",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.43794576554468, -34.6909696891163],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planta Potabilizadora Gral. San Martín - Canal Auxiliar de Agua Decantada",
+        "description": "$283 millones | Municipios beneficiados: CABA, Vicente López, San Isidro, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, La Matanza, Avellaneda, Lanús, Lomas de Zamora y Esteban Echeverría.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.392198231203096, -34.69952753529427],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planta Potabilizadora Gral. San Martín - Sistema de Agua de Cal",
+        "description": "$562 millones | Municipios beneficiados: CABA, Vicente López, San Isidro, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, La Matanza, Avellaneda, Lanús, Lomas de Zamora y Esteban Echeverría",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.39216489812654, -34.699719368298915],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sistema Riachuelo - Planta de Pretratamiento, EE y EB",
+        "description": "$9.836 millones | Municipios beneficiados: San Isidro, San Martín, Vicente López, Caba, Tres de Febrero, Hurlingham, Morón, La Matanza, Avellaneda, Lanús, Lomas de Zamora, Esteban Echeverría y Almirante Brown.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.431113572028224, -34.67025468839741],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sistema Riachuelo - Colector Margen Izquierda y Desvío Colector Baja Costanera",
+        "description": "$25.332 millones | Municipios beneficiados: San Isidro, San Martín, Vicente López, Caba, Tres de Febrero, Hurlingham, Morón, La Matanza, Avellaneda, Lanús, Lomas de Zamora, Esteban Echeverría y Almirante Brown.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.42971529917152, -34.6686072995267],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sistema Riachuelo - Emisario y Difusores",
+        "description": "$32.248 millones | Municipios beneficiados: San Isidro, San Martín, Vicente López, Caba, Tres de Febrero, Hurlingham, Morón, La Matanza, Avellaneda, Lanús, Lomas de Zamora, Esteban Echeverría y Almirante Brown.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.42846934021621, -34.66712140420247],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Escuela Judicial Manuel Dorrego - Terminación",
+        "description": "$47,2 millones | Inició en septiembre de 2021 y estima finalizar durante 2022 | Beneficiará a 1.080 estudiantes | Obra de refacción y/o terminación para la Universidad Nacional de Lanús (Unidad Académica), con una superficie cubierta de 1.584,36 m2 , en la localidad de Remedios de Escalada",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.39174506145419, -34.73376947697107],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aulario \"Remedios del Valle\" Licenciatura en Nutrición",
+        "description": "$79,4 millones | Inició en febrero de 2021 y estima finalizar en octubre de 2022 | 30 empleos | Beneficiará a 870 estudiantes | Construcción de un edificio que contará con 8 aulas de diferentes tamaños, sector de oficina administrativa, sanitarios accesibles, patio interior y solado para actividades al aire libre.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.391669038822215, -34.73280109274541],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sendero de la Infancia - Barrio Acuba",
+        "description": "$7,2 millones | Inició en noviembre de 2019 y estima finalizar durante 2022",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.43676325494489, -34.689662923035236],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Plaza Mariano Moreno, Remedios de Escalada – Lanús | Plan Argentina Hace – SOP ",
+        "description": "$48 millones | 90 empleos | Inició en agosto de 2021 y estima finalizar durante 2022",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.39509278771449, -34.727609005481504],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Parque Eva Perón Anexo, Nuevas áreas de Recreación, Remedios de Escalada, Lanús | Plan Argentina Hace – SOP",
+        "description": "$41,7 millones | Inició en noviembre de 2021 y estima finalizar durante el 2022",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.38780988555945, -34.718507663667566],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ampliación Honorable Concejo Deliberante Etapa 1, Lanús | Plan Argentina Hace – SOP",
+        "description": "$70,1 millones | 100 empleos | Inició en mayo de 2022 y estima finalizar en enero de 2023",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.3851137101142, -34.71162987555686],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Infraestructura Vial en Calles del Municipio y Accesibilidad sobre vías FFCC Belgrano Sur | Plan Argentina Hace – SOP",
+        "description": "$225 millones | 40 empleos | Inició en noviembre de 2021 y estima finalizar durante 2022",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.42871658636173, -34.681768118024486],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Puesta en Valor de Veredas en Lanús Este | Plan Argentina Hace – SOP",
+        "description": " $27,5 millones | Inició en febrero de 2022 y estima finalizar a fines de 2022",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.388822787624704, -34.708886585141364],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Construcción de Centro de Desarrollo Infantil para la primera infancia",
+        "description": "$71,7 millones | Ubicados en las localidades de Villa Jardín y Monte Chingolo | Contarán con una superficie de 220 m2 en predios de 300 m2. Contemplan distintas salas según las edades y espacios de recreación al aire libre.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.43082273770521, -34.67806537347745],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Construcción de Centro de Desarrollo Infantil para la primera infancia",
+        "description": "$71,7 millones | Ubicados en las localidades de Villa Jardín y Monte Chingolo | Contarán con una superficie de 220 m2 en predios de 300 m2. Contemplan distintas salas según las edades y espacios de recreación al aire libre.",
+        "status": "En curso"
+      },
+      "geometry": {
+        "coordinates": [-58.352027403610506, -34.72729432416276],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planta Potabilizadora Gral. San Martín - Optimización Decantadores y Canal Alimentación Sector A1",
+        "description": "$917 millones | Municipios beneficiados: C.A.B.A, Vicente López, San Isidro, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, La Matanza, Avellaneda, Lanús, Lomas de Zamora y Esteban Echeverría",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.392233993517166, -34.699843740682056],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Planta Potabilizadora Gral. San Martín - Optimización Decantadores y Canal Alimentación Sector A1",
+        "description": "$917 millones | Municipios beneficiados: C.A.B.A, Vicente López, San Isidro, San Fernando, San Martín, Tres de Febrero, Morón, Hurlingham, La Matanza, Avellaneda, Lanús, Lomas de Zamora y Esteban Echeverría",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.39231502273748, -34.699990299749416],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aliviador Barrio Victor Hugo- Etapa 1A",
+        "description": "$200 millones | 35 empleos | 2.000 personas beneficiadas | Dará solución al anegamiento recurrente de la zona de Monte Chingolo. Para esto se prevé replantear el sistema de desagüe, incluyendo la construcción de conductos principales y sus respectivos ramales, con conexión a sumideros existentes",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.349907955687954, -34.73883130546689],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Construcción de Alcaidía Departamental en la localidad de Lanús",
+        "description": "$1.008 millones | Estima iniciar en junio de 2022 y finalizar en mayo de 2023 | Plazo de obra: 300 días | Cada una de las intervenciones contempla una superficie total de 7.000 m2 | Se trata de lugares de detención transitoria donde las personas esperan la resolución de su situación procesual. Cada edificio contaría con una capacidad de 156 celdas distribuidas en tres módulos de dos niveles, con cuatro pabellones cada uno",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.39275812693276, -34.698786917363186],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": " Hospital Interzonal de Agudos “Evita”",
+        "description": "$15,5 millones | Obra con la Nación | Plazo de obra: 60 días | El proyecto comprende la puesta en valor de varios sectores de internación del Hospital Interzonal General de Agudos Evita de Lanús, para habilitar 56 camas en la Emergencia Sanitaria",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.399962759570116, -34.696451250080855],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Construcción de Centro de Desarrollo Infantil para la primera infancia",
+        "description": " $96,2 millones | Ubicados en las localidades de Remedios de Escalada y Lanús Oeste | Contarán con una superficie de 220 m2 en predios de 300 m2. Contemplan distintas salas según las edades y espacios de recreación al aire libre",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.39554908024522, -34.70332862928753],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Construcción de Centro de Desarrollo Infantil para la primera infancia",
+        "description": " $96,2 millones | Ubicados en las localidades de Remedios de Escalada y Lanús Oeste | Contarán con una superficie de 220 m2 en predios de 300 m2. Contemplan distintas salas según las edades y espacios de recreación al aire libre",
+        "status": "Planificado"
+      },
+      "geometry": {
+        "coordinates": [-58.40469907941524, -34.72219727939318],
+        "type": "Point"
+      }
+    }
+  ]
+}

@@ -47,7 +47,9 @@
       "type": "Feature",
       "properties": {
         "name": "Parque General Belgrano",
-        "address": "Donato Álvarez y Rondeau"
+        "address": "Donato Álvarez y Rondeau",
+        "area": 32096,
+        "centroid": [-58.34685053300471, -34.724546471653646]
       },
       "geometry": {
         "type": "Polygon",

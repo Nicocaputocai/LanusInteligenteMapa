@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punto Verde Móvil Lanusita",
+        "address": "Tejedor y del Valle Iberlucea",
+        "height": "del Valle Iberlucea"
+      },
+      "geometry": {
+        "coordinates": [-58.393156547426415, -34.702334496065745],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punto Verde Móvil Villa Obrera",
+        "address": "Eva Perón y ",
+        "height": "Pergamino"
+      },
+      "geometry": {
+        "coordinates": [-58.37401900730406, -34.71337571136701],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punto Verde Fijo Grupo Scout Gral. San Martín",
+        "address": "Av. Hipólito Yrigoyen",
+        "hieght": 5930
+      },
+      "geometry": {
+        "coordinates": [-58.39394479621761, -34.72358468764376],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Punto Verde Fijo Grupo Scout Cnel. Manuel Dorrego ",
+        "address": "Gdor. Gral. Ramón Balcarce",
+        "height": 2278
+      },
+      "geometry": {
+        "coordinates": [-58.41377166094968, -34.68591742312681],
+        "type": "Point"
+      }
+    }
+  ]
+}
