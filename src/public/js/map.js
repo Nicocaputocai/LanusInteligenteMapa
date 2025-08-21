@@ -218,12 +218,12 @@ async function setMap(arr) {
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
-  // var publicWorkIcon = new L.icon({
-  //   iconUrl: "/img/publicWork.svg",
-  //   iconSize: [80, 50],
-  //   shadowSize: [68, 95],
-  //   shadowAnchor: [22, 94],
-  // });
+  var publicWorkIcon = new L.icon({
+    iconUrl: "/img/publicWork.svg",
+    iconSize: [80, 50],
+    shadowSize: [68, 95],
+    shadowAnchor: [22, 94],
+  });
   var greenPointIcon = new L.icon({
     iconUrl: "/img/greenPoints.svg",
     iconSize: [80, 50],
@@ -516,12 +516,12 @@ async function setMap(arr) {
             
           },
         });
-        var publicWork = L.geoJSON(publicWorkData, {
-          onEachFeature: onEachFeature,
-          pointToLayer: function (feature, latlng) {
-            return L.marker(latlng, { icon: publicWorkIcon });
-          },
-        });
+        // var publicWork = L.geoJSON(publicWorkData, {
+        //   onEachFeature: onEachFeature,
+        //   pointToLayer: function (feature, latlng) {
+        //     return L.marker(latlng, { icon: publicWorkIcon });
+        //   },
+        // });
 
         var greenPointsLanus = L.geoJSON(greenPointsData, {
           onEachFeature: onEachFeature,

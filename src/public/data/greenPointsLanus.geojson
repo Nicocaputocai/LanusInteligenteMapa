@@ -5,11 +5,11 @@
       "type": "Feature",
       "properties": {
         "name": "Punto Verde Móvil Lanusita",
-        "address": "Tejedor y del Valle Iberlucea",
+        "address": "Amancio Alcorta y ",
         "height": "del Valle Iberlucea"
       },
       "geometry": {
-        "coordinates": [-58.393156547426415, -34.702334496065745],
+        "coordinates": [-58.393356, -34.70031],
         "type": "Point"
       }
     },
@@ -34,18 +34,6 @@
       },
       "geometry": {
         "coordinates": [-58.39394479621761, -34.72358468764376],
-        "type": "Point"
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Punto Verde Fijo Grupo Scout Cnel. Manuel Dorrego ",
-        "address": "Gdor. Gral. Ramón Balcarce",
-        "height": 2278
-      },
-      "geometry": {
-        "coordinates": [-58.41377166094968, -34.68591742312681],
         "type": "Point"
       }
     }
