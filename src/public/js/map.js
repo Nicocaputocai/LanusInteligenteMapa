@@ -218,12 +218,12 @@ async function setMap(arr) {
     shadowSize: [68, 95],
     shadowAnchor: [22, 94],
   });
-  var publicWorkIcon = new L.icon({
-    iconUrl: "/img/publicWork.svg",
-    iconSize: [80, 50],
-    shadowSize: [68, 95],
-    shadowAnchor: [22, 94],
-  });
+  // var publicWorkIcon = new L.icon({
+  //   iconUrl: "/img/publicWork.svg",
+  //   iconSize: [80, 50],
+  //   shadowSize: [68, 95],
+  //   shadowAnchor: [22, 94],
+  // });
   var greenPointIcon = new L.icon({
     iconUrl: "/img/greenPoints.svg",
     iconSize: [80, 50],
@@ -570,7 +570,7 @@ async function setMap(arr) {
           "Escuelas Técnicas": tecnicalHightSchollEducation,
           Universidades: universityEducation,
           "Otros establecimientos educativos": otherEducation,
-          "Obra Pública del Ministerio de Obra Pública": publicWork,
+          // "Obra Pública del Ministerio de Obra Pública": publicWork,
           "Parques y plazas": squareAndPark,
           "Puntos Verdes": greenPointsLanus,
           Salud: health,
